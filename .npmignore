@@ -3,7 +3,6 @@
 /node_modules
 /src
 /test
-/examples
 .env
 .env.local
 .prettierrc
